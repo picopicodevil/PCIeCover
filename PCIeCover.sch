@@ -1,0 +1,192 @@
+EESchema Schematic File Version 4
+LIBS:MotherBoard_PCIe-cache
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SamacSys_Parts:Bus_PCIexpress_x16_164_Position J1
+U 1 1 5E2B0BD4
+P 4950 4100
+F 0 "J1" H 4950 7250 50  0000 C CNN
+F 1 "Bus_PCIexpress_x16_164_Position" H 4950 -1350 50  0000 C CNN
+F 2 "PCIe:BUS_PCIexpress_x16_164_Position" H 4950 4050 50  0001 C CNN
+F 3 "http://pinouts.ru/Slots/PCI_pinout.shtml" H 4950 4050 50  0001 C CNN
+	1    4950 4100
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 1950 4650
+NoConn ~ 2050 4650
+NoConn ~ 2150 4650
+NoConn ~ 2250 4650
+NoConn ~ 2350 4650
+NoConn ~ 2450 4650
+NoConn ~ 2550 4650
+NoConn ~ 2650 4650
+NoConn ~ 2750 4650
+NoConn ~ 2850 4650
+NoConn ~ 2950 4650
+NoConn ~ 3200 4650
+NoConn ~ 3300 4650
+NoConn ~ 3400 4650
+NoConn ~ 3500 4650
+NoConn ~ 3600 4650
+NoConn ~ 3700 4650
+NoConn ~ 3800 4650
+NoConn ~ 3900 4650
+NoConn ~ 4000 4650
+NoConn ~ 4100 4650
+NoConn ~ 4200 4650
+NoConn ~ 4300 4650
+NoConn ~ 4400 4650
+NoConn ~ 4500 4650
+NoConn ~ 4600 4650
+NoConn ~ 4700 4650
+NoConn ~ 4800 4650
+NoConn ~ 4900 4650
+NoConn ~ 5000 4650
+NoConn ~ 5100 4650
+NoConn ~ 5200 4650
+NoConn ~ 5300 4650
+NoConn ~ 5400 4650
+NoConn ~ 5500 4650
+NoConn ~ 5600 4650
+NoConn ~ 5700 4650
+NoConn ~ 5800 4650
+NoConn ~ 5900 4650
+NoConn ~ 6000 4650
+NoConn ~ 6100 4650
+NoConn ~ 6200 4650
+NoConn ~ 6300 4650
+NoConn ~ 6400 4650
+NoConn ~ 6500 4650
+NoConn ~ 6600 4650
+NoConn ~ 6700 4650
+NoConn ~ 6800 4650
+NoConn ~ 6900 4650
+NoConn ~ 7000 4650
+NoConn ~ 7100 4650
+NoConn ~ 7200 4650
+NoConn ~ 7300 4650
+NoConn ~ 7400 4650
+NoConn ~ 7500 4650
+NoConn ~ 7600 4650
+NoConn ~ 7700 4650
+NoConn ~ 7800 4650
+NoConn ~ 7900 4650
+NoConn ~ 8000 4650
+NoConn ~ 8100 4650
+NoConn ~ 8200 4650
+NoConn ~ 8300 4650
+NoConn ~ 8400 4650
+NoConn ~ 8500 4650
+NoConn ~ 8600 4650
+NoConn ~ 8700 4650
+NoConn ~ 8800 4650
+NoConn ~ 8900 4650
+NoConn ~ 9000 4650
+NoConn ~ 9100 4650
+NoConn ~ 9200 4650
+NoConn ~ 9300 4650
+NoConn ~ 9400 4650
+NoConn ~ 9500 4650
+NoConn ~ 9600 4650
+NoConn ~ 9700 4650
+NoConn ~ 9800 4650
+NoConn ~ 9900 4650
+NoConn ~ 10000 4650
+NoConn ~ 10100 4650
+NoConn ~ 10200 4650
+NoConn ~ 1950 3550
+NoConn ~ 2050 3550
+NoConn ~ 2150 3550
+NoConn ~ 2250 3550
+NoConn ~ 2350 3550
+NoConn ~ 2450 3550
+NoConn ~ 2550 3550
+NoConn ~ 2650 3550
+NoConn ~ 2750 3550
+NoConn ~ 2850 3550
+NoConn ~ 2950 3550
+NoConn ~ 3200 3550
+NoConn ~ 3300 3550
+NoConn ~ 3400 3550
+NoConn ~ 3500 3550
+NoConn ~ 3600 3550
+NoConn ~ 3700 3550
+NoConn ~ 3800 3550
+NoConn ~ 3900 3550
+NoConn ~ 4000 3550
+NoConn ~ 4100 3550
+NoConn ~ 4200 3550
+NoConn ~ 4300 3550
+NoConn ~ 4400 3550
+NoConn ~ 4500 3550
+NoConn ~ 4600 3550
+NoConn ~ 4700 3550
+NoConn ~ 4800 3550
+NoConn ~ 4900 3550
+NoConn ~ 5000 3550
+NoConn ~ 5100 3550
+NoConn ~ 5200 3550
+NoConn ~ 5300 3550
+NoConn ~ 5400 3550
+NoConn ~ 5500 3550
+NoConn ~ 5600 3550
+NoConn ~ 5700 3550
+NoConn ~ 5800 3550
+NoConn ~ 5900 3550
+NoConn ~ 6000 3550
+NoConn ~ 6100 3550
+NoConn ~ 6200 3550
+NoConn ~ 6300 3550
+NoConn ~ 6400 3550
+NoConn ~ 6500 3550
+NoConn ~ 6600 3550
+NoConn ~ 6700 3550
+NoConn ~ 6800 3550
+NoConn ~ 6900 3550
+NoConn ~ 7000 3550
+NoConn ~ 7100 3550
+NoConn ~ 7200 3550
+NoConn ~ 7300 3550
+NoConn ~ 7400 3550
+NoConn ~ 7500 3550
+NoConn ~ 7600 3550
+NoConn ~ 7700 3550
+NoConn ~ 7800 3550
+NoConn ~ 7900 3550
+NoConn ~ 8000 3550
+NoConn ~ 8100 3550
+NoConn ~ 8200 3550
+NoConn ~ 8300 3550
+NoConn ~ 8400 3550
+NoConn ~ 8500 3550
+NoConn ~ 8600 3550
+NoConn ~ 8700 3550
+NoConn ~ 8800 3550
+NoConn ~ 8900 3550
+NoConn ~ 9000 3550
+NoConn ~ 9100 3550
+NoConn ~ 9200 3550
+NoConn ~ 9300 3550
+NoConn ~ 9400 3550
+NoConn ~ 9500 3550
+NoConn ~ 9600 3550
+NoConn ~ 9700 3550
+NoConn ~ 9800 3550
+NoConn ~ 9900 3550
+NoConn ~ 10000 3550
+NoConn ~ 10100 3550
+NoConn ~ 10200 3550
+$EndSCHEMATC
